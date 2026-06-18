@@ -1,6 +1,3 @@
-# README.md
-
-````md
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Hariharasudhan%20A%20M&fontSize=60&fontAlignY=35&desc=AI%20%7C%20Cloud%20%7C%20DevOps%20%7C%20Self-Hosting&descAlignY=55"/>
@@ -260,4 +257,3 @@ Goals:
 **Building AI, Cloud Infrastructure & Self-Hosted Solutions**
 
 </div>
-````
