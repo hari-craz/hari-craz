@@ -102,7 +102,7 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=hari-craz&theme=onestar&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" />
+<img src="https://github-trophies.vercel.app/?username=hari-craz&theme=discord&no-frame=true&column=7&margin-w=10&margin-h=10" />
 </p>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
