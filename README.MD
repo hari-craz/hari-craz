@@ -62,8 +62,8 @@
 ## 📊 GitHub Statistics
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=hari-craz&show_icons=true&theme=transparent&hide_border=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hari-craz&layout=compact&theme=transparent&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=hari-craz&show_icons=true&theme=github_dark&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hari-craz&layout=compact&theme=github_dark&hide_border=true" />
 </p>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
@@ -71,7 +71,7 @@
 ## 🔥 GitHub Streak
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=hari-craz&theme=transparent&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=hari-craz&theme=github-dark-blue&hide_border=true" />
 </p>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
@@ -79,7 +79,7 @@
 ## 📈 Contribution Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=hari-craz&theme=github-compact&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=hari-craz&theme=react-dark&hide_border=true" />
 </p>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
@@ -87,7 +87,7 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=hari-craz&theme=flat&no-frame=true&column=4" />
+<img src="https://github-profile-trophy.vercel.app/?username=hari-craz&theme=darkhub&no-frame=true&column=4" />
 </p>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
@@ -95,7 +95,7 @@
 ## 📋 Profile Summary
 
 <p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hari-craz&theme=github" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hari-craz&theme=github_dark" />
 </p>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
@@ -103,13 +103,13 @@
 ## 📈 Productivity Metrics
 
 <p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hari-craz&theme=github" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hari-craz&theme=github" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hari-craz&theme=github_dark" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hari-craz&theme=github_dark" />
 </p>
 
 <p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hari-craz&theme=github" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hari-craz&theme=github&utcOffset=5.5" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hari-craz&theme=github_dark" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hari-craz&theme=github_dark&utcOffset=5.5" />
 </p>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
