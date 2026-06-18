@@ -84,10 +84,25 @@
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
+## 🐍 Contribution Snake
+
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/hari-craz/hari-craz/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/hari-craz/hari-craz/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution snake"
+    src="https://raw.githubusercontent.com/hari-craz/hari-craz/output/github-contribution-grid-snake.svg" />
+</picture>
+</p>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+
 ## 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=hari-craz&theme=darkhub&no-frame=true&column=4" />
+<img src="https://github-profile-trophy.vercel.app/?username=hari-craz&theme=onestar&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" />
 </p>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
@@ -178,21 +193,6 @@ Goal:
 <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 
-</p>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
-
-## 🐍 Contribution Snake
-
-<p align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/hari-craz/hari-craz/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/hari-craz/hari-craz/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution snake"
-    src="https://raw.githubusercontent.com/hari-craz/hari-craz/output/github-contribution-grid-snake.svg" />
-</picture>
 </p>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
