@@ -29,6 +29,39 @@
 
 🚀 Aspiring Entrepreneur and Technology Builder
 
+💼 Open to internship, collaboration, and open-source opportunities
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+
+## 🚀 Featured Projects
+
+<p align="center">
+<a href="https://github.com/hari-craz/AI-Runtime-Security-Observability-Developer-Intelligence-Platform">
+<img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=hari-craz&repo=AI-Runtime-Security-Observability-Developer-Intelligence-Platform&theme=github_dark&hide_border=true" />
+</a>
+<a href="https://github.com/hari-craz/Home-Server-Manager">
+<img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=hari-craz&repo=Home-Server-Manager&theme=github_dark&hide_border=true" />
+</a>
+</p>
+
+<p align="center">
+<a href="https://github.com/hari-craz/AgriNova-Ai">
+<img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=hari-craz&repo=AgriNova-Ai&theme=github_dark&hide_border=true" />
+</a>
+<a href="https://github.com/hari-craz/smart-classroom-tracker">
+<img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=hari-craz&repo=smart-classroom-tracker&theme=github_dark&hide_border=true" />
+</a>
+</p>
+
+<p align="center">
+<a href="https://github.com/hari-craz/NewsFlux">
+<img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=hari-craz&repo=NewsFlux&theme=github_dark&hide_border=true" />
+</a>
+<a href="https://github.com/hari-craz/UniTest">
+<img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=hari-craz&repo=UniTest&theme=github_dark&hide_border=true" />
+</a>
+</p>
+
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
 ## 🛠️ Tech Stack
@@ -118,12 +151,7 @@
 ## 📈 Productivity Metrics
 
 <p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hari-craz&theme=github_dark" />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hari-craz&theme=github_dark" />
-</p>
-
-<p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hari-craz&theme=github_dark" />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hari-craz&theme=github_dark&utcOffset=5.5" />
 </p>
 
